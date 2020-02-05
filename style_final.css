@@ -78,6 +78,9 @@ div {
     background-color:rgba(80, 202, 50, 0.95);
     margin-left: -5%;
     margin-right: 2%;
-    font-size: 1vw;
+}
+
+.card-text {
+    font-size: 2vw;
 }
 
